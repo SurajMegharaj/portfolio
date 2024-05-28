@@ -8,7 +8,7 @@ export const Bio = {
       "Worked 7 Months as a Jr.Data Engineer, 6 Months SDE Intern,Completed B.E in Computer Science at Sri Sairam College Of Engineering with an 8.14 CGPA . With a positive attitude, and Continous Learning Mindset, I am Eager to make a meaningful contribution by my work.",
     github: "https://github.com/SurajMegharaj",
     resume:
-      "https://drive.google.com/file/d/1NJs7cpecOYDgwTAgPE0u2xVQmyQB6caB/view?usp=sharing",
+      "https://drive.google.com/file/d/1_Y9xqxGRNm19kmOpnAuWdbbZ_4LFcSLp/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/suraj1642001/",
     insta: "https://www.instagram.com/surajmegharaj/",
     facebook: "https://www.facebook.com/surajmeghaj/",
